@@ -45,7 +45,7 @@ const Header = (props) => {
 
 const styles = {
     textStyling: {
-        fontSize: 22,
+        fontSize:22,
     },
     viewStyle: {
         backgroundColor: 'gainsboro',

@@ -12,7 +12,7 @@ const LaptopDetail = (props) => {
     <Item>
       <ItemSection>
         <View style={styles.headerContainer}>
-          <Text style={styles.headerText}>{props.brand}</Text>
+          <Text style={styles.headerText}>{props.brand} </Text>
           <Text style={styles.headerText}>{props.model[0].name}</Text>
         </View>
       </ItemSection>
