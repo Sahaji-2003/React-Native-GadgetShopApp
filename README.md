@@ -1,3 +1,5 @@
+![testimg2](https://github.com/Sahaji-2003/React-Native-GadgetShopApp/assets/130205533/f9e5765a-c3f1-4b78-817f-3e0057641c98)
+![testimg1](https://github.com/Sahaji-2003/React-Native-GadgetShopApp/assets/130205533/8f899a18-be59-4a70-bb90-916fb4fe3478)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
