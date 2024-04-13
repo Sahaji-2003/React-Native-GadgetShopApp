@@ -15,7 +15,7 @@ class LaptopList extends Component {
                 this.setState({ cars: res.data, loading: false });
             })
             .catch((error) => {
-                console.error('Error fetching data: ', error);
+                console.error('Error fetching data:', error);
                 this.setState({ loading: false });
             });
     }
