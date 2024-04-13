@@ -7,7 +7,7 @@ const ItemSection = props => {
 
 const styles ={
   viewStyle: {
-    borderBottomWidth:1,
+    borderBottomWidth: 1,
     borderColor: "gainsboro",
     padding: 5,
     flexDirection: 'row',

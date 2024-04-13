@@ -1,5 +1,3 @@
-![testimg2](https://github.com/Sahaji-2003/React-Native-GadgetShopApp/assets/130205533/f9e5765a-c3f1-4b78-817f-3e0057641c98)
-![testimg1](https://github.com/Sahaji-2003/React-Native-GadgetShopApp/assets/130205533/8f899a18-be59-4a70-bb90-916fb4fe3478)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -79,3 +77,6 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# ScreenShots
+![Screenshot 2024-04-10 222218](https://github.com/rohitpatil03/React-Native-Laptops/assets/101471692/22dd346e-43df-4a2a-b938-8a7d6ef4251b)
